@@ -40,33 +40,7 @@
 
 ---
 
-### 🌟 **Projects**  
 
-#### 🚀 **GastroETA: Smart Forecasting for Food Deliveries**  
-🗺 Built a predictive model to estimate food delivery times using **geospatial data & historical trends**.  
-📊 Engineered features like **haversine distance, delivery partner ratings** for enhanced accuracy.  
-📈 Applied **gradient boosting & LSTMs** to improve forecasting efficiency.  
-
-#### 🛡 **ShieldNet: Adversarial Attacks & Defense on Cancer Detection**  
-⚠️ Developed **adversarial attack methods (FGSM, DeepFool, spatial transformations)** to test lung & colon cancer models.  
-🔒 Integrated **adversarial training** to improve model robustness.  
-📈 Increased detection accuracy by **40%** using **Gaussian noise defense techniques**.  
-
-#### 🚚 **OptiMile: Reinforcement Learning for Last-Mile Delivery Optimization**  
-🤖 Designed an **AI-powered delivery system** using **Reinforcement Learning (PPO Algorithm)**.  
-📍 Built a **custom RL environment** using spatio-temporal data from the **LaDe Dataset**.  
-📦 **Optimized delivery times & travel distances** by implementing **dynamic route planning**.  
-
-#### 📊 **FinChat: Investment Banker Chatbot**  
-💰 Leveraged **Intel’s Neural Chat 7B LLM, BGE Embeddings, ChromaDB, LangChain, and CTransformers**.  
-📊 Parsed **structured & unstructured data** to deliver targeted financial insights.  
-📈 Optimized embeddings for **finance queries** and deployed **robust retrieval methods**.  
-
-#### 🔐 **SafeChat: Secure Group Messaging with Real-Time Bullying Detection**  
-🔒 Implemented **homomorphic encryption (TenSEAL)** and **VADER sentiment analysis** for **encrypted real-time bullying detection**.  
-🛡 Ensured **strong privacy retention** using **AES encryption**, reducing processing time while maintaining security.  
-
----
 
 ### 🚀 **Currently Working On**  
 
